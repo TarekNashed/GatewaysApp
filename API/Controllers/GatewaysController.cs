@@ -120,7 +120,7 @@ namespace API.Controllers
             }
 
             return NoContent();
-        }
+        } 
 
         private bool CheckIfGatewayHasDevice(int id)
         {
