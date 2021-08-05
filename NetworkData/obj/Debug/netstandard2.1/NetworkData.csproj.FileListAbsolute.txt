@@ -1,0 +1,45 @@
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csproj.CoreCompileInputs.cache
+D:\MyWork\work tark nashed\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.deps.json
+D:\MyWork\work tark nashed\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.dll
+D:\MyWork\work tark nashed\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\MyWork\work tark nashed\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csproj.AssemblyReference.cache
+D:\MyWork\work tark nashed\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfoInputs.cache
+D:\MyWork\work tark nashed\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfo.cs
+D:\MyWork\work tark nashed\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csproj.CoreCompileInputs.cache
+D:\MyWork\work tark nashed\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.dll
+D:\MyWork\work tark nashed\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkData\obj\Debug\netstandard2.1\NetworkData.pdb

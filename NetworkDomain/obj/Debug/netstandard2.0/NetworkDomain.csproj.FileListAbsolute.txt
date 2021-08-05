@@ -1,0 +1,9 @@
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.0\NetworkDomain.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.0\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.0\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.0\NetworkDomain.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.0\NetworkDomain.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.0\NetworkDomain.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.0\NetworkDomain.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.0\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.0\NetworkDomain.pdb

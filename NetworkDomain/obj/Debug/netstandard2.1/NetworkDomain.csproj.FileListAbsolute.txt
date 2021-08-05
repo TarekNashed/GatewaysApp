@@ -1,0 +1,60 @@
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CopyComplete
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CopyComplete
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CopyComplete
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.pdb
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.deps.json
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.dll
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.pdb
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.dll
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.AssemblyReference.cache
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfoInputs.cache
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfo.cs
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CoreCompileInputs.cache
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CopyComplete
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.dll
+D:\MyWork\work tark nashed\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.deps.json
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkDomain.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\bin\Debug\netstandard2.1\NetworkData.pdb
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csprojAssemblyReference.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CoreCompileInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfoInputs.cache
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.AssemblyInfo.cs
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.csproj.CopyComplete
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.dll
+D:\Others\Projects\GatewaysDevices\Gateways\BKP\Before_UnitOfTesting\ISA\New\AMR_Nabil\Gateways\NetworkDomain\obj\Debug\netstandard2.1\NetworkDomain.pdb
