@@ -22,34 +22,27 @@ namespace API.Controllers
     {
         private readonly IGatewayBusinessData _gatewayBusinessData;
         private readonly IGatewayDevicesBusinessData _gatewayDevicesBusinessData;
+        private readonly IDeviceBusinessData _deviceBusinessData;
         public GatewaysController(IGatewayBusinessData gatewayBusinessData,
-            IGatewayDevicesBusinessData gatewayDevicesBusinessData)
+            IGatewayDevicesBusinessData gatewayDevicesBusinessData, IDeviceBusinessData deviceBusinessData)
         {
             this._gatewayBusinessData = gatewayBusinessData;
             this._gatewayDevicesBusinessData = gatewayDevicesBusinessData;
+            this._deviceBusinessData = deviceBusinessData;
         }
-        /*
-        [HttpGet]
-        [Route("GetListOfGateways")]
-        public  IEnumerable<GatewayMapper> GetListOfGateways()
-        {
-           var result=  _gatewayBusinessData.GetAllGateways();
-            return result.ToList();
-        }
-        */
-        /*
-        [HttpGet]
-        [Route("GetListOfGateways")]
-        public async Task<ActionResult<IEnumerable<GatewayMapper>>> GetListOfGateways()
-        {
-            return await _gatewayBusinessData.GetAllGatewaysAsync();
-        }
-        */
+        
         [HttpGet]
         [Route("GetListOfGateways")]
         public IEnumerable<GatewayMapper> GetListOfGateways()
         {
             return  _gatewayBusinessData.GetAllGateways();
+        }
+        [HttpGet]
+        [Route("GetDevicesByGatewayId")]
+        public IEnumerable<DeviceMapper> GetDevicesByGatewayId(int id)
+        {
+            var result = _deviceBusinessData.GetDevicesByGatewayId(id);
+            return result;
         }
         [HttpGet]
         [Route("GetListOfGatewaysDevices")]
@@ -124,7 +117,7 @@ namespace API.Controllers
 
         private bool CheckIfGatewayHasDevice(int id)
         {
-            return false;//_context.Devices.Any(e => e.gatewayId == id);
+            return _deviceBusinessData.CheckIfGetwayHasDevice(id);
         }
         // DELETE: api/ApiWithActions/5
         [HttpPost()]

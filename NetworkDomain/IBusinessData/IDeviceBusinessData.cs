@@ -18,5 +18,7 @@ namespace NetworkDomain.IBusinessData
         bool CheckIfExceedNumOnGateway(int getwayId);
         bool CheckValidDeviceId(int id);
         string GetNameById(int id);
+        IEnumerable<DeviceMapper> GetDevicesByGatewayId(int id);
+        bool CheckIfGetwayHasDevice(int id);
     }
 }

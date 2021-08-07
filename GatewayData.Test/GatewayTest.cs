@@ -15,6 +15,7 @@ namespace GatewayData.Test
     {
         public Mock<IGatewayBusinessData> mock1 = new Mock<IGatewayBusinessData>();
         public Mock<IGatewayDevicesBusinessData> mock2 = new Mock<IGatewayDevicesBusinessData>();
+        public Mock<IDeviceBusinessData> mock3 = new Mock<IDeviceBusinessData>();
         [Fact]
         public void Test_GetGatewayById_Return_GatewayObj()
         {
@@ -27,7 +28,7 @@ namespace GatewayData.Test
                 Name= "Gateway1"
             };
             mock1.Setup(p => p.GetGetwayById(1)).Returns(gateway);
-            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object);
+            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object, mock3.Object);
             //Act
             ActionResult<GatewayMapper> result = controller.GetGateway(1);
             //Assert
@@ -44,7 +45,7 @@ namespace GatewayData.Test
                 Name = "Gateway4"
             };
             mock1.Setup(p => p.AddNewGateway(gateway)).Returns(new GatewayMapper());
-            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object);
+            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object, mock3.Object);
             //Act
             var result = controller.Post(gateway);
             //Assert
@@ -62,7 +63,7 @@ namespace GatewayData.Test
                 Name = "Gateway4"
             };
             mock1.Setup(p => p.UpdateGateway(1, gateway));
-            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object);
+            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object, mock3.Object);
             //Act
             var result = controller.Put(1, gateway);
             //Assert
@@ -74,7 +75,7 @@ namespace GatewayData.Test
             //Arrange
             int Id = 1;
             mock1.Setup(p => p.RemoveGateway(Id));
-            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object);
+            GatewaysController controller = new GatewaysController(mock1.Object, mock2.Object, mock3.Object);
             //Act
             var result = controller.Delete(Id);
             //Assert

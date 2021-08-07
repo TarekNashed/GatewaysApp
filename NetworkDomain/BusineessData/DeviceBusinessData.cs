@@ -68,6 +68,8 @@ namespace NetworkDomain.BusineessData
                     deviceDto.Vendor = device.Vendor;
                     deviceDto.Status = device.Status;
                     deviceDto.CreatedDate = device.CreatedDate;
+                    deviceDto.GatewayId = device.GatewayId;
+                    deviceDto.Gateway = _unitOfWorkGateway.repository.GetById(device.GatewayId).Name;
                     deviceDtos.Add(deviceDto);
                 }
             }
@@ -83,6 +85,7 @@ namespace NetworkDomain.BusineessData
             deviceDto.Vendor = device.Vendor;
             deviceDto.Status = device.Status;
             deviceDto.CreatedDate = device.CreatedDate;
+            deviceDto.GatewayId = device.GatewayId;
             return deviceDto;
         }
 
@@ -110,6 +113,34 @@ namespace NetworkDomain.BusineessData
             device.Gateway = null;
             _unitOfWorkDevice.repository.Update(id, device);
             _unitOfWorkDevice.Save();
+        }
+        public IEnumerable<DeviceMapper> GetDevicesByGatewayId(int id)
+        {
+            // get devices data.
+            List<DeviceMapper> deviceMappers = new List<DeviceMapper>();
+            var devices = _unitOfWorkDevice.repository.GetAll().Where(s => s.GatewayId == id);
+            foreach (var device in devices)
+            {
+                DeviceMapper deviceMapper = new DeviceMapper();
+                deviceMapper.Id = device.Id;
+                deviceMapper.UID = device.UID;
+                deviceMapper.Vendor = device.Vendor;
+                deviceMapper.Status = device.Status;
+                deviceMapper.CreatedDate = device.CreatedDate;
+                deviceMapper.Gateway = _unitOfWorkGateway.repository.GetById(device.GatewayId).Name;
+                deviceMapper.GatewayId = device.GatewayId;
+                deviceMappers.Add(deviceMapper);
+            }
+            return deviceMappers;
+
+        }
+
+        public bool CheckIfGetwayHasDevice(int gatewayId)
+        {
+            var result = _unitOfWorkDevice.repository.GetAll().Where(s => s.GatewayId == gatewayId);
+            if (result.ToString() != null)
+                return true;
+            return false;
         }
     }
 }

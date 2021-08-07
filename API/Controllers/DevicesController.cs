@@ -29,6 +29,7 @@ namespace API.Controllers
         {
             return _deviceBusinessData.GetAllDevices();
         }
+
         // GET: api/Devices/5
         [HttpGet()]
         [Route("GetDevice")]
@@ -43,13 +44,6 @@ namespace API.Controllers
 
             return device;
         }
-        //[HttpGet()]
-        //[Route("GetNameById")]
-        //public string GetNameById(int id)
-        //{
-        //    var device = _deviceBusinessData.GetNameById(id);
-        //    return device;
-        //}
         // POST: api/Devices
         [HttpPost]
         [Route("PostDevice")]

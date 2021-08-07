@@ -13,5 +13,6 @@ namespace NetworkDomain.Mapper
         public DateTime CreatedDate { get; set; }
         public bool Status { get; set; }
         public int GatewayId { get; set; }
+        public string Gateway { get; set; }
     }
 }
